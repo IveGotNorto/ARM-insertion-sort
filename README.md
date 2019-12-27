@@ -7,8 +7,8 @@ Example:
 
 ##Insertion Sort##
 
-Enter a sequence of characters to be sorted(,):
-22,130,30,45,69,22,60,190,50
-Numbers in ascending order:
+Enter a sequence of characters to be sorted(,): <br/>
+22,130,30,45,69,22,60,190,50 <br/>
+Numbers in ascending order: <br/>
 22,22,30,45,50,60,69,130,190
 
